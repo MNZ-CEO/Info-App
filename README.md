@@ -36,5 +36,5 @@ navigation across three main screens:
 
 ![Splash Screen](images/splash.png)
 ![Home Screen](images/home.png)
-![Detail Screen](images/detail.png)
 ![Search](images/search.png)
+![Detail Screen](images/detail.png)
