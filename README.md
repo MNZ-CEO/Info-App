@@ -34,7 +34,7 @@ navigation across three main screens:
 * **Navigation**: Intuitive navigation between Splash, Home, and Detail screens.
 
 
-![Splash Screen](images/splash.png)
-![Home Screen](images/home.png)
-![Search](images/search.png)
-![Detail Screen](images/detail.png)
+![Splash Screen](images/splash.png)    ![Home Screen](images/home.png)
+
+![Search](images/search.png)    ![Detail Screen](images/detail.png)
+
